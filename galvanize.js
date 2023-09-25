@@ -18,5 +18,5 @@ function multiply(num1, num2) {
     return Number(negNum);
   }
 }
-
+console.log(multiply(1, 3));
 console.log(multiply(1, 2));
